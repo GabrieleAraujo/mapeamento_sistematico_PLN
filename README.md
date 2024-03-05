@@ -27,7 +27,7 @@ O número de plataformas de mídia social aumentou significativamente assim como
 
 ## Mais detalhes
 
-Artigo publicado nos anais do ENIAC 2023: [Natural Language Processing and Social Media: a systematic mapping on Brazilian leading events](https://github.com/fabiolobato/ENIAC23-SysMapping)
+Artigo publicado nos anais do ENIAC 2023: [Natural Language Processing and Social Media: a systematic mapping on Brazilian leading events](https://sol.sbc.org.br/index.php/eniac/article/view/25741)
 
 
 ## Citação 
