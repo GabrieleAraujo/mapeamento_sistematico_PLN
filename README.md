@@ -25,3 +25,19 @@ O número de plataformas de mídia social aumentou significativamente assim como
 1. [Bases](https://github.com/GabrieleAraujo/mapeamento_sistematico_PLN/tree/main/Bases): Pasta contendo as bases de dados compostas pelos atributos mapeados.
 2. [Resultados](https://github.com/GabrieleAraujo/mapeamento_sistematico_PLN/tree/main/Resultados): Pasta contendo o resultados das análises com gráficos e nuvem de palavras.
 
+## Mais detalhes
+
+Artigo publicado nos anais do ENIAC 2023: [Natural Language Processing and Social Media: a systematic mapping on Brazilian leading events](https://github.com/fabiolobato/ENIAC23-SysMapping)
+
+
+## Citação 
+```
+@inproceedings{araujo2023natural,
+  title={Natural Language Processing and Social Media: a systematic mapping on Brazilian leading events},
+  author={Ara{\'u}jo, Gabriele de S and Leite, J{\'e}ssica Brenda P and da Silva, Marcelino S and Junior, Antonio FL Jacob and Lobato, F{\'a}bio MF},
+  booktitle={Anais do XX Encontro Nacional de Intelig{\^e}ncia Artificial e Computacional},
+  pages={741--755},
+  year={2023},
+  organization={SBC}
+}
+```
